@@ -20,16 +20,13 @@ default: &default
   # For details on connection pooling, see rails configuration guide
   # http://guides.rubyonrails.org/configuring.html#database-pooling
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  host: localhost
+  username: pguser
+  password: lolpass123
 
 development:
   <<: *default
-  username: postgres
-  password: newpassword
-  host: localhost
-  pool: 5
-  timeout: 5000
-  port: 5433
-  database: adopteunpanneau2_development
+  database: adopteunpanneauFI_development
 
 
   # The specified database role being used to connect to postgres.
