@@ -1,0 +1,87 @@
+<p id="notice"><%= notice %></p>
+
+<body onload="init_geoloc();">
+
+  <!-- Start Top Bar -->
+  <div class="top-bar">
+    <div class="top-bar-left">
+      <ul class="menu">
+        <li class="menu-text"><%= image_tag "fiLogo.png",size: "200x103"%></li>
+      </ul>
+    </div>
+
+<<<<<<< HEAD
+    <div class="top-bar-right">
+      <ul class="menu">
+        <li><a href="http://jlm2017.fr/">Site officiel</a></li>
+        <li><a href="https://www.facebook.com/mavoixjuin2017/?fref=ts">Facebook</a></li>
+        <li><a href="https://twitter.com/mavoix2017">Twitter</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div>Panneaux le plus prêt</div>
+
+  <h1 id="closest_panneau"> panneau le plus prêt</h1>
+=======
+  </div>
+
+<hr>
+  
+  <h1 id="closest_panneau"> panneau le plus proche</h1>
+>>>>>>> upstream/master
+
+  <div class="row">
+    <div type="new_checkin" class="button small-5 large-5 columns" url="" onclick="check_this_baby(true);">
+      Bon état
+    </div>
+    <div type="new_checkin" class="button offset-1 small-5 large-5 columns" url=""  onclick="check_this_baby(false);">
+      A recoller
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="row">
+    <div style="max-height: 800px; height: 300px;" class="small-12 large-12 columns" id="mapdiv"></div>
+  </div>
+
+  <hr>
+  <table>
+  <%@panneaus.each do |panneau|%>
+    <tr>
+      <td> <%= panneau[:name] %> </td>
+<<<<<<< HEAD
+      <td>
+        <% if panneau[:last_check]%>
+          <%= panneau[:last_check] %>
+=======
+      <td>  
+        <% if panneau.updated_at %>
+          <%= panneau.updated_at %>
+>>>>>>> upstream/master
+        <% else %>
+          Jamais inspecté
+        <% end%>
+      </td>
+      <td>
+        <% if panneau[:is_ok] %>
+          <i class="gen-enclosed foundicon-checkmark"><p>nickel chrome</p></i>
+        <%else%>
+          <i class="social foundicon-thumb-down panneau_pourri"><p>Pourri</p></i>
+        <%end%>
+      </td>
+    </tr>
+  <%end%>
+  </table>
+
+
+<a href="https://github.com/adebeo/adopteunpanneau2"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/52760788cde945287fbb584134c4cbc2bc36f904/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f77686974655f6666666666662e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png"></a>
+
+  <div id='footer'>
+    Licence WTFPL.
+  </div>
+
+
+</body>

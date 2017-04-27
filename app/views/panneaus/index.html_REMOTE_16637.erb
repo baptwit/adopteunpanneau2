@@ -1,0 +1,65 @@
+<p id="notice"><%= notice %></p>
+
+<body onload="init_geoloc();">
+
+  <!-- Start Top Bar -->
+  <div class="top-bar">
+    <div class="top-bar-left">
+      <ul class="menu">
+        <li class="menu-text"><img src="https://www.mavoix.info/wp-content/uploads/2017/01/logMAVOIXNrectangleBL-fond-blanc.png" alt="Retour Accueil" width="200" height="103" style="max-width: 200px; max-height: 100px; width: 450px; height: 57.2222px;" data-no-retina="" class=" attachment-16" scale="0"></li>
+      </ul>
+    </div>
+
+  </div>
+
+<hr>
+  
+  <h1 id="closest_panneau"> panneau le plus proche</h1>
+
+  <div class="row">
+    <div type="new_checkin" class="button small-5 large-5 columns" url="" onclick="check_this_baby(true);">
+      Bon état
+    </div>
+    <div type="new_checkin" class="button offset-1 small-5 large-5 columns" url=""  onclick="check_this_baby(false);">
+      A recoller
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="row">
+    <div style="max-height: 800px; height: 300px;" class="small-12 large-12 columns" id="mapdiv"></div>
+  </div>
+
+  <hr>
+  <table>
+  <%@panneaus.each do |panneau|%>
+    <tr>
+      <td> <%= panneau[:name] %> </td>
+      <td>  
+        <% if panneau.updated_at %>
+          <%= panneau.updated_at %>
+        <% else %>
+          Jamais inspecté
+        <% end%>
+      </td>
+      <td>
+        <% if panneau[:is_ok] %> 
+          <i class="gen-enclosed foundicon-checkmark"><p>nickel chrome</p></i>
+        <%else%>
+          <i class="social foundicon-thumb-down panneau_pourri"><p>Pourri</p></i>
+        <%end%>
+      </td>
+    </tr>
+  <%end%>
+  </table>
+
+
+<a href="https://github.com/adebeo/adopteunpanneau2"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/52760788cde945287fbb584134c4cbc2bc36f904/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f77686974655f6666666666662e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png"></a>
+
+  <div id='footer'>
+    Licence WTFPL.
+  </div>
+
+
+</body>
