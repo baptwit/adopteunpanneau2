@@ -20,7 +20,7 @@ $(function(){ $(document).foundation(); });
 
 
 
-function init_geoloc(){      
+function init_geoloc(){
   function maPosition(position) {
     var lat = position.coords.latitude;
     var long = position.coords.longitude;
@@ -38,11 +38,11 @@ function init_geoloc(){
     }
 
     var path = "panneaus/get_nearest_pannel?lat="+lat+"&long="+long;
-    if (typeof $.urlParam('ville') != 'undefined'){
+    if (typeof $.urlParam('ville') == "string"){
       path += "&ville="+$.urlParam('ville');
     }
     console.log(path);
-    var closest_panneau = globalAjaxCall("get",path,"");       
+    var closest_panneau = globalAjaxCall("get",path,"");
   }
 
   if(navigator.geolocation){
@@ -73,13 +73,13 @@ function globalAjaxCall(http_method, url, data){
 function check_this_baby(is_ok){
   //recupere le paneau le plus proche
   var lat = $("#closest_panneau").attr("lat");
-  var long = $("#closest_panneau").attr("long"); 
-  var id_panneaux = $("#closest_panneau").attr("id_panneaux"); 
+  var long = $("#closest_panneau").attr("long");
+  var id_panneaux = $("#closest_panneau").attr("id_panneaux");
   var datas ={"lat":lat,"long":long,"id_panneaux":id_panneaux,"is_ok":is_ok};
   //console.log(datas);
   var path = "/panneaus?lat="+lat+"&long="+long+"&id_panneaux="+id_panneaux+"&is_ok="+is_ok
   window.location.href = path;
-      
+
 }
 
 
@@ -104,10 +104,10 @@ function create_map(panneaus){
       }  else {
         var icon = new OpenLayers.Icon('/mavoix-no.png',size,offset);
       }
-      markers.addMarker(new OpenLayers.Marker(marker_info_closest_panneau,icon)); 
-    
+      markers.addMarker(new OpenLayers.Marker(marker_info_closest_panneau,icon));
+
     }
-    
+
     map.setCenter (marker_info_closest_panneau, zoom);
 }
 
@@ -119,6 +119,3 @@ function get_marker_info(panneau){
           );
     return marker_info;
 }
-
-
-
