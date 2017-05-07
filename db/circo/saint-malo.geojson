@@ -1,0 +1,1004 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "Name": "1",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Maison des Associations",
+        "ADRESSE": "35 rue Ernest Renan, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.004044804534206, 48.650187909103231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "2",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Maison des Associations",
+        "ADRESSE": "35 rue Ernest Renan, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.004428333421144, 48.65011748774706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "3",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Maison des Associations",
+        "ADRESSE": "35 rue Ernest Renan, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.004227398625269, 48.650154722195083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "4",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Maison de la Famille",
+        "ADRESSE": "1 place Anne de Bretagne (ancien 18 rue de la Distillerie), 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.005776851838927, 48.652152873117529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "5",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Ecole Publique du Grand Bé",
+        "ADRESSE": "3 rue Saint-Sauveur, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.027542078126778, 48.647600875697485]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "6",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Ecole Publique du Grand Bé",
+        "ADRESSE": "3 rue Saint-Sauveur, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.027430573707973, 48.647588245073592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "7",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Espace Bougainville",
+        "ADRESSE": "12 bis rue du Grand Passage, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.992668091963033, 48.639636228803703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "8",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Espace Bougainville",
+        "ADRESSE": "12 bis rue du Grand Passage, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.993043154504208, 48.639496433041813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "9",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Club House",
+        "ADRESSE": "22 avenue de Marville, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.00678043136393, 48.644317400189998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "10",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Groupe Scolaire de Courtoisville",
+        "ADRESSE": "48 avenue du 47ème Régiment d'Infanterie, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.996399572590999, 48.654756123116677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "11",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Groupe Scolaire de Courtoisville",
+        "ADRESSE": "48 avenue du 47ème Régiment d'Infanterie, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.996148215348222, 48.654823507941025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "12",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Groupe Scolaire de Courtoisville",
+        "ADRESSE": "48 avenue du 47ème Régiment d'Infanterie, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.995897081105947, 48.654886858761607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "13",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Maison de quartier de l'Espérance",
+        "ADRESSE": "12 rue Félicité Renault, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.990644973549496, 48.646949844688827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "14",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Salle Omnisports du Panier Fleuri",
+        "ADRESSE": "rue de Bonneville, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.978763410275616, 48.658720156668778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "15",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Salle Omnisports du Panier Fleuri",
+        "ADRESSE": "rue de Bonneville, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.979081072221679, 48.658584893076736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "16",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Salle Omnisports du Panier Fleuri",
+        "ADRESSE": "rue de Bonneville, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.978910450664327, 48.658896474663742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "17",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Salle Omnisports du Panier Fleuri",
+        "ADRESSE": "rue de Bonneville, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.979255876327558, 48.658755094939089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "19",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Mairie Annexe de Paramé",
+        "ADRESSE": "place Georges Coudray, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.982736223892206, 48.657973099645289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "20",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Mairie Annexe de Paramé",
+        "ADRESSE": "place Georges Coudray, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.982846431804706, 48.657930886634908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "21",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Mairie Annexe de Paramé",
+        "ADRESSE": "place Georges Coudray, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.982971155579693, 48.657889936775732]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "18",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Salle Omnisports du Panier Fleuri",
+        "ADRESSE": "rue de Bonneville, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.979014883484048, 48.658767921706897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "22",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Maison de Quartier Théophile Briant",
+        "ADRESSE": "6 allée de la Goëlette, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.982151951046038, 48.664501340024813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "23",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Maison de Quartier Théophile Briant",
+        "ADRESSE": "6 allée de la Goëlette, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.981945714317547, 48.664534742936532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "24",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Maison de Quartier de Rothéneuf",
+        "ADRESSE": "rue Mac Donald Stewart, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.967542138759542, 48.679403836349699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "27",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Ecole Publique de la Cité",
+        "ADRESSE": "7 rue du Glorioux, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.021536703384811, 48.635567284848278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "25",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Théâtre Bouvet",
+        "ADRESSE": "place Bouvet, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.016820525785662, 48.637629147268981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "26",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Théâtre Bouvet",
+        "ADRESSE": "place Bouvet, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-1",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.017054454882372, 48.637535054318597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "28",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Ecole Publique de la Nation",
+        "ADRESSE": "35 rue de la Nation, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.009484824074887, 48.632446122445977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "29",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Maison de Quartier de la Guymauvière",
+        "ADRESSE": "12 rue des Bleuets, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.986333750448479, 48.634046788756905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "30",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Groupe Scolaire de Bellevue",
+        "ADRESSE": "3 rue Descartes, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.998311961862282, 48.630065947533225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "31",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Groupe Scolaire de Bellevue",
+        "ADRESSE": "3 rue Descartes, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.998177072559618, 48.629933622342342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "32",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Groupe Scolaire de Bellevue",
+        "ADRESSE": "3 rue Descartes, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.998044859437807, 48.629814598489027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "33",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Groupe Scolaire de Bellevue",
+        "ADRESSE": "3 rue Descartes, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.997899549776065, 48.629679097587342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "34",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Maison de Quartier de la Madeleine",
+        "ADRESSE": "avenue des Comptoirs, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.99385880246897, 48.626960590800486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "35",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Maison de Quartier de la Madeleine",
+        "ADRESSE": "avenue des Comptoirs, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.993871210523003, 48.626813401148922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "36",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Gymnase de la Gentillerie",
+        "ADRESSE": "124 boulevard du Rosais, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.006927959171757, 48.628727429458657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "37",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Gymnase de la Gentillerie",
+        "ADRESSE": "124 boulevard du Rosais, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.006691670288994, 48.628662860764294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "38",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Salle du Grand Domaine",
+        "ADRESSE": "8 rue de l'Achille, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.009344050161085, 48.617582899755988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "39",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Salle du Grand Domaine",
+        "ADRESSE": "8 rue de l'Achille, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.009268059260931, 48.617600856310901]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "40",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "Nom": "Maison de quartier de Château-Malo",
+        "ADRESSE": "5 rue Paul Cézanne, 35400 Saint-Malo",
+        "circonscription": "7ème circonscriptionnscription d'Ille-et-Vilaine",
+        "CANTON": "Saint-Malo-2",
+        "EUROPE": "circonscriptionnscription Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.960116933225177, 48.614368214123715]
+      }
+    }
+  ]
+}
