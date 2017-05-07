@@ -1,0 +1,12 @@
+# définir le parti
+default: &default
+  title: France Insoumise
+
+development:
+  <<: *default
+
+test:
+  <<: *default
+
+production:
+  <<: *default
