@@ -5,11 +5,6 @@
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["rails"],
   "scripts": {
-    "postdeploy": [
-      "bundle install",
-      "rake db:create",
-      "rake db:seed",
-      "rake routes"
-      ]
+    "postdeploy": "bundle exec rake db:schema:load db:seed"
   },
 }
