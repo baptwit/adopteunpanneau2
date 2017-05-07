@@ -1,0 +1,15 @@
+{
+  "name": "Vérifier les panneaux France Insoumise",
+  "description": "application rails pour vérifier les panneaux proche de vous",
+  "repository": "https://github.com/baptwit/adopteunpanneau2",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["rails"],
+  "scripts": {
+    "postdeploy": [
+      "bundle install",
+      "rake db:create",
+      "rake db:seed",
+      "rake routes"
+      ]
+  },
+}

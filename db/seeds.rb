@@ -16,7 +16,7 @@
         return nil
       end
       jsonConfigurationFile = File.read(jsonFilePath)
-      
+
       begin
         hash = JSON.parse(jsonConfigurationFile,:symbolize_names => sym)
       rescue JSON::ParserError
@@ -34,18 +34,21 @@
 
     geo_jsons = getHashFromJsonFile geo_json_path
 
-    ville = File.basename(geo_json_path, ".#{extension}")
+    ville_fichier = File.basename(geo_json_path, ".#{extension}")
 
     geo_json_features = geo_jsons[:features]
 
-    panneaux_mavoix = geo_json_features.map{|geojson| 
+    panneaux_mavoix = geo_json_features.map{|geojson|
       if geojson[:geometry]
         if geojson[:geometry][:coordinates]
           if geojson[:properties]
-            if geojson[:properties][:description]
-              {:lat => geojson[:geometry][:coordinates][0], :long =>geojson[:geometry][:coordinates][1], :name => geojson[:properties][:description], :is_ok=> true, :ville=>ville}
+            if geojson[:properties][:circonscription]
+              ville_circo = File.basename(geo_json_path, ".#{extension}") + "_" + geojson[:properties][:circonscription][0]
+              {:lat => geojson[:geometry][:coordinates][0], :long =>geojson[:geometry][:coordinates][1], :name => geojson[:properties][:Nom], :is_ok=> true, :ville=>ville_circo}
+            elsif geojson[:properties][:description]
+              {:lat => geojson[:geometry][:coordinates][0], :long =>geojson[:geometry][:coordinates][1], :name => geojson[:properties][:description], :is_ok=> true, :ville=>ville_fichier}
             elsif geojson[:properties][:Nom]
-              {:lat => geojson[:geometry][:coordinates][0], :long =>geojson[:geometry][:coordinates][1], :name => geojson[:properties][:Nom], :is_ok=> true, :ville=>ville}
+              {:lat => geojson[:geometry][:coordinates][0], :long =>geojson[:geometry][:coordinates][1], :name => geojson[:properties][:Nom], :is_ok=> true, :ville=>ville_fichier}
             end
           end
         end
@@ -56,6 +59,6 @@
 
     panneaux_mavoix.each{|panneau|
       Panneau.create(panneau)
-    }  
+    }
 
   }

@@ -1,5 +1,8 @@
 # README
 
+Installer sur heroku en un clic :
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
                LICENCE PUBLIQUE RIEN À BRANLER
                      Version 1, mars 2009
 
@@ -8,11 +11,9 @@ Copyright (C) 2017 Denis Bolomier
 
 La copie et la distribution de copies exactes de cette licence sont
 autorisées, et toute modification est permise à condition de changer
-le nom de la licence. 
+le nom de la licence.
 
         CONDITIONS DE COPIE, DISTRIBUTON ET MODIFICATION
               DE LA LICENCE PUBLIQUE RIEN À BRANLER
 
  0. Faites ce que vous voulez, j’en ai RIEN À BRANLER.
-
-
