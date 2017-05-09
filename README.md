@@ -3,6 +3,9 @@
 Installer sur heroku en un clic :
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+changer les icones :
+config.configParti = config_for(:configFranceInsoumise) dans config/application.rb
+
                LICENCE PUBLIQUE RIEN À BRANLER
                      Version 1, mars 2009
 

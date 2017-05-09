@@ -1,0 +1,11 @@
+# définir le parti
+default: &default
+    title: Ma Voix
+development:
+  <<: *default
+
+test:
+  <<: *default
+
+production:
+  <<: *default

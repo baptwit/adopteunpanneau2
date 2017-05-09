@@ -1,6 +1,9 @@
 # définir le parti
 default: &default
-  title: France Insoumise
+    title: France Insoumise
+    couleur: _settings_FI.scss
+    panneau-ok: "FI-ok.png"
+    panneau-no: "FI-no.png"
 
 development:
   <<: *default

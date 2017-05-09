@@ -15,6 +15,7 @@
 //= require foundation
 //= require turbolinks
 //= require_tree .
+//= require app_assets
 
 $(function(){ $(document).foundation(); });
 
@@ -100,9 +101,11 @@ function create_map(panneaus){
       console.log(panneau);
 
       if (panneau.is_ok == true){
-        var icon = new OpenLayers.Icon('/mavoix-ok.png',size,offset);
+        var panneau_ok_settings = "<%= Rails.configuration.configParti['panneau-ok'] %>";
+        var panneau_no_settings = "<%= Rails.configuration.configParti['panneau-no'] %>";
+        var icon = new OpenLayers.Icon(asset_path(panneau_ok_settings),size,offset);
       }  else {
-        var icon = new OpenLayers.Icon('/mavoix-no.png',size,offset);
+        var icon = new OpenLayers.Icon(asset_path(panneau_no_settings),size,offset);
       }
       markers.addMarker(new OpenLayers.Marker(marker_info_closest_panneau,icon));
 
