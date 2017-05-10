@@ -103,7 +103,7 @@ function create_map(panneaus){
       if (panneau.is_ok == true){
         var panneau_ok_settings = "<%= Rails.configuration.configParti['panneau-ok'] %>";
         var panneau_no_settings = "<%= Rails.configuration.configParti['panneau-no'] %>";
-        var icon = new OpenLayers.Icon(asset_path(panneau_ok_settings),size,offset);
+        var icon = new OpenLayers.Icon(asset_path(panneau_ok_settings),size,offset); 
       }  else {
         var icon = new OpenLayers.Icon(asset_path(panneau_no_settings),size,offset);
       }
