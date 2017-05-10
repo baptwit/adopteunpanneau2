@@ -3,7 +3,7 @@ default: &default
     title: France Insoumise
     panneau-ok: "FI-ok.png"
     panneau-no: "FI-no.png"
-    sass: _settings_FI.scss
+    sass: _settings_FI
 
 development:
   <<: *default
