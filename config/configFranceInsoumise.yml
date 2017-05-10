@@ -4,6 +4,7 @@ default: &default
     couleur: _settings_FI.scss
     panneau-ok: "FI-ok.png"
     panneau-no: "FI-no.png"
+    sass: "_settings_FI.scss"
 
 development:
   <<: *default
